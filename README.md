@@ -1,1 +1,1 @@
-# Python
+This Python project focuses on analyzing data related to Amazon phones. The analysis includes various aspects such as pricing trends,  ratings, and product features. The main goal of this project is to provide insights into the market trends and customer preferences for Amazon phones.
